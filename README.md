@@ -1,6 +1,6 @@
 # Privacy Policy for MemeTag  
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** August 16th, 2025  
 
 MemeTag (“we,” “our,” or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share information when you use our mobile application (“App”).  
 
@@ -46,7 +46,7 @@ All in-app payments are processed by **Apple App Store** or **Google Play Billin
 ---
 
 ## 6. Children’s Privacy
-MemeTag is not directed to children under 13. If we learn we have collected personal data from a child under 13, we will delete it.  
+MemeTag is not directed to children under 13. If we learn we have collected personal data from a child under 13, we will delete it upon request.  
 
 ---
 
@@ -61,7 +61,7 @@ Depending on your location, you may have the right to:
 - Request corrections or deletion  
 - Opt-out of certain data uses  
 
-To exercise these rights, contact us at **[your email/contact info]**.  
+To exercise these rights, contact us at **memetagapp@gmail.com**.  
 
 ---
 
@@ -73,5 +73,5 @@ We may update this Privacy Policy from time to time. We will notify you of chang
 ## 10. Contact Us
 If you have questions about this Privacy Policy, please contact:  
 
-**Email:** [Your Contact Email]  
-**Developer Name:** [Your Name or Business Name]  
+**Email:** memetagapp@gmail.com 
+**Developer Name:** CleCo 
